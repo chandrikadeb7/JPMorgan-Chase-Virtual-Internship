@@ -10,7 +10,7 @@
     "@types/node": "^10.12.19",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.0.11",
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "puppeteer": "^1.19.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
